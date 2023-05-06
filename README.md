@@ -22,10 +22,10 @@ Please cite the corresponding references when using the TenNet toolbox in your p
 
 [3] C. Lu, J. Feng, Y. Chen, W. Liu, Z. Lin, and S. Yan, “Tensor robust principal component analysis with a new tensor nuclear norm,” IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 42, no. 4, pp. 925–938, 2020.
 
-[4] G.-J. Song, M. K. Ng, and X.-J. Zhang, “Robust tensor completion using transformed tensor singular value decomposition,” Numerical Linear Algebra with Applications, vol. 27, p. e2299, 2020.
+[4] G.-J. Song, M. K. Ng, and X.-J. Zhang, “Robust tensor completion using transformed tensor singular value decomposition,” Numerical Linear Algebra with Applications, vol. 27, p. e2299, 2020.
 
 [5] T.-X. Jiang, M. K. Ng, X.-L. Zhao, and T.-Z. Huang, “Framelet representation of tensor nuclear norm for third-order tensor completion,” IEEE Transactions on
 Image Processing, vol. 29, pp. 7233–7244, 2020.
 
-[6] B.-Z. Li, X.-L. Zhao, T.-Y. Ji, X.-J. Zhang, and T.-Z. Huang, “Nonlinear transform induced tensor nuclear norm for tensor completion,” Journal of Scientific
+[6] B.-Z. Li, X.-L. Zhao, T.-Y. Ji, X.-J. Zhang, and T.-Z. Huang, “Nonlinear transform induced tensor nuclear norm for tensor completion,” Journal of Scientific
 Computing, vol. 92, 2022.
