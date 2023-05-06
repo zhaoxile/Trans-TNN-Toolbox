@@ -1,4 +1,4 @@
-# Transformed TNN-Toolbox (Matlab)
+# Transformed TNN Toolbox (Matlab)
 
 Ben-Zheng Li, Yu-Bang Zheng, Tai-Xiang Jiang, Xi-Le Zhao
 
