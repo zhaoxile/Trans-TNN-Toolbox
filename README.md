@@ -1,4 +1,4 @@
-# Transformed TNN Toolbox (Matlab)
+# TranTSVD Toolbox (Matlab)
 
 Ben-Zheng Li, Yu-Bang Zheng, Tai-Xiang Jiang, Xi-Le Zhao
 
