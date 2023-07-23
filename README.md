@@ -4,9 +4,7 @@ Ben-Zheng Li, Yu-Bang Zheng, Tai-Xiang Jiang, Xi-Le Zhao
 
 ## 1. Introduction
 
-The transformed tensor nuclear norm captures the low-rankness of the frontal slices under the given transform, which mitigates the inherent information loss
-to matricization or tensor flattening. We develop a transformed tensor nuclear norm (TransTNN) toolbox in Matlab with the tensor completion task as an
-example. The TransTNN toolbox includes the classical transformed tensor nuclear norm methods [1], such as the standrad DFT-based TNN, the unitary transformed TNN (UTNN), the framelet transformed TNN (FTNN), and the nonlinear transformed TNN (NTTNN). Table 1 lists the used functions in the TransTNN toolbox.
+The transformed tensor singular values decomposition (t-SVD) captures the low-rankness of the frontal slices under the given transform, which mitigates the inherent information loss to matricization or tensor flattening. We develop a TranTSVD toolbox in Matlab with the tensor completion task as an example. The TranTSVD toolbox includes the classical transformed t-SVD methods \cite{Jiang}, such as the standrad DFT-based TNN, the unitary transformed TNN (UTNN), the framelet transformed TNN (FTNN), and the nonlinear transformed TNN (NTTNN). Table \ref{tnn} lists the used functions in the TranTSVD toolbox.
 
 ## 2. Example
 
