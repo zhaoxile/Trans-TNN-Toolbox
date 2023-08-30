@@ -4,7 +4,7 @@ Yu-Bang Zheng, Xi-Le Zhao, Qibin Zhao, Junjun Pan, Michael K. Ng, Heng-Chao Li, 
 
 ## 1. Introduction
 
-The transformed tensor singular values decomposition (t-SVD) captures the low-rankness of the frontal slices under the given transform, which mitigates the inherent information loss to matricization or tensor flattening. We develop a TranTSVD toolbox in Matlab with the tensor completion task as an example. The TranTSVD toolbox includes the classical transformed t-SVD methods [1], such as the standrad DFT-based TNN [2,3], the unitary transformed TNN (UTNN) [4], the framelet transformed TNN (FTNN) [5], and the nonlinear transformed TNN (NTTNN) [6]. Table \ref{tnn} lists the used functions in the TranTSVD toolbox.
+The transformed tensor singular values decomposition (t-SVD) captures the low-rankness of the frontal slices under the given transform, which mitigates the inherent information loss to matricization or tensor flattening. We develop a TranTSVD toolbox in Matlab with the tensor completion task as an example. The TranTSVD toolbox includes the classical transformed t-SVD methods [1], such as the standrad DFT-based TNN [2,3], the unitary transformed TNN (UTNN) [4], the framelet transformed TNN (FTNN) [5], and the nonlinear transformed TNN (NTTNN) [6].
 
 ## 2. Example
 
