@@ -1,6 +1,6 @@
 # TranTSVD Toolbox (Matlab)
 
-Ben-Zheng Li, Yu-Bang Zheng, Tai-Xiang Jiang, Xi-Le Zhao
+Yu-Bang Zheng, Xi-Le Zhao, Qibin Zhao, Junjun Pan, Michael K. Ng, Heng-Chao Li, Ting-Zhu Huang
 
 ## 1. Introduction
 
